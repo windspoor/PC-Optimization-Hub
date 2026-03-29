@@ -169,6 +169,7 @@
     - [Mouse Sensitivity Calculator](https://www.mouse-sensitivity.com/)
     - [Aiming.Pro Sensitivity Calculator](https://aiming.pro/mouse-sensitivity-calculator)
     - [Mouse Functionality Tester](https://boringboredom.github.io/Mouse-Functionality-Tester/)
+    - [Mouse Polling Rate Test](https://mousepollingratetest.com/)
 - ## Mouse pad
   - [Hoya's sheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/edit)
   - [Viscose's sheet](https://docs.google.com/spreadsheets/d/1Ix0RN4WDgRIn9uSUMy2smG_vWR3FTnZHgNpumChfHM0/edit)
